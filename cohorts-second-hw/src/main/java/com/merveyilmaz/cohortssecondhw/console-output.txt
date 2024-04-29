@@ -1,0 +1,104 @@
+All customers:
+
+Customer Name: Caner
+Sector: Technology
+Registration Date: 2023-06-01
+Invoices:
+ - Amount: 450
+ - Date: 2022-01-01
+ - Amount: 2700
+ - Date: 2023-03-03
+Orders:
+ - Order ID: 1
+Products:
+ - Product: Product 1, Price: 500.0
+ - Product: Product 2, Price: 1000.0
+
+Customer Name: Ersin
+Sector: Finance
+Registration Date: 2023-02-15
+Invoices:
+ - Amount: 450
+ - Date: 2022-01-01
+ - Amount: 2700
+ - Date: 2023-03-03
+Orders:
+ - Order ID: 1
+Products:
+ - Product: Product 1, Price: 500.0
+ - Product: Product 2, Price: 1000.0
+
+Customer Name: Sude
+Sector: Healthcare
+Registration Date: 2023-06-01
+Invoices:
+ - Amount: 450
+ - Date: 2022-01-01
+ - Amount: 2700
+ - Date: 2023-03-03
+Orders:
+ - Order ID: 1
+Products:
+ - Product: Product 1, Price: 500.0
+ - Product: Product 2, Price: 1000.0
+
+Customer Name: Merve
+Sector: Education
+Registration Date: 2023-03-15
+Invoices:
+ - Amount: 450
+ - Date: 2022-01-01
+ - Amount: 2700
+ - Date: 2023-03-03
+Orders:
+ - Order ID: 1
+Products:
+ - Product: Product 1, Price: 500.0
+ - Product: Product 2, Price: 1000.0
+
+Customers with 'C':
+Name: Caner Sector: Technology Registration Date: 2023-06-01
+
+Customer who name is Merve:
+Name: Merve Sector: Education  Registration Date: 2023-03-15
+
+Customers whose name is unique:
+Name: Caner
+Name: Sude
+Name: Merve
+Name: Ersin
+
+Total invoices amount for June registrations: 6300.0
+
+All invoices:
+Amount: 450 Date: 2022-01-01
+Amount: 2700 Date: 2023-03-03
+Amount: 450 Date: 2022-01-01
+Amount: 2700 Date: 2023-03-03
+Amount: 450 Date: 2022-01-01
+Amount: 2700 Date: 2023-03-03
+Amount: 450 Date: 2022-01-01
+Amount: 2700 Date: 2023-03-03
+
+Invoices above 1500:
+Amount: 2700 Date: 2023-03-03
+Amount: 2700 Date: 2023-03-03
+Amount: 2700 Date: 2023-03-03
+Amount: 2700 Date: 2023-03-03
+
+Average amount of invoices above 1500: 2700.0
+
+Customers with invoices below 500:
+Caner
+Ersin
+Sude
+Merve
+
+Industries with June invoices average below 750:
+
+Total invoice amount for Caner: 3150.0
+
+Total invoice amount for all customers: 12600.0
+
+
+Process finished with exit code 0

@@ -1,0 +1,10 @@
+com\merveyilmaz\cohortssecondhw\service\InvoiceService.class
+com\merveyilmaz\cohortssecondhw\entity\IndividualCustomer.class
+com\merveyilmaz\cohortssecondhw\entity\CorporateCustomer.class
+com\merveyilmaz\cohortssecondhw\service\CustomerService.class
+com\merveyilmaz\cohortssecondhw\CohortsSecondHwApplication.class
+com\merveyilmaz\cohortssecondhw\entity\Product.class
+com\merveyilmaz\cohortssecondhw\entity\Customer.class
+com\merveyilmaz\cohortssecondhw\entity\Invoice.class
+com\merveyilmaz\cohortssecondhw\entity\Person.class
+com\merveyilmaz\cohortssecondhw\entity\Order.class

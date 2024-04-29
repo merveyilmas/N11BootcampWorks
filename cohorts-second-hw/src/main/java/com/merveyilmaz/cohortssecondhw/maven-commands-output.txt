@@ -1,0 +1,439 @@
+CLEAN:
+
+"C:\Program Files\Java\jdk-21\bin\java.exe" "-Dmaven.multiModuleProjectDirectory=C:\n11Bootcamp\cohorts homeworks\cohorts-second-hw\cohorts-second-hw" -Dmaven.home=C:\Users\yilma\.m2\wrapper\dists\apache-maven-3.9.5-bin\2adeog8mj13csp1uusqnc1f2mo\apache-maven-3.9.5 -Dclassworlds.conf=C:\Users\yilma\.m2\wrapper\dists\apache-maven-3.9.5-bin\2adeog8mj13csp1uusqnc1f2mo\apache-maven-3.9.5\bin\m2.conf "-Dmaven.ext.class.path=C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2022.2.3\plugins\maven\lib\maven-event-listener.jar" "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2022.2.3\lib\idea_rt.jar=59471:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2022.2.3\bin" -Dfile.encoding=UTF-8 -Dsun.stdout.encoding=UTF-8 -Dsun.stderr.encoding=UTF-8 -classpath C:\Users\yilma\.m2\wrapper\dists\apache-maven-3.9.5-bin\2adeog8mj13csp1uusqnc1f2mo\apache-maven-3.9.5\boot\plexus-classworlds-2.7.0.jar;C:\Users\yilma\.m2\wrapper\dists\apache-maven-3.9.5-bin\2adeog8mj13csp1uusqnc1f2mo\apache-maven-3.9.5\boot\plexus-classworlds.license org.codehaus.classworlds.Launcher -Didea.version=2022.2.3 clean
+[INFO] Scanning for projects...
+[INFO]
+[INFO] -----------------< com.merveyilmaz:cohorts-second-hw >------------------
+[INFO] Building cohorts-second-hw 0.0.1-SNAPSHOT
+[INFO]   from pom.xml
+[INFO] --------------------------------[ jar ]---------------------------------
+[INFO]
+[INFO] --- clean:3.3.2:clean (default-clean) @ cohorts-second-hw ---
+[INFO] Deleting C:\n11Bootcamp\cohorts homeworks\cohorts-second-hw\cohorts-second-hw\target
+[INFO] ------------------------------------------------------------------------
+[INFO] BUILD SUCCESS
+[INFO] ------------------------------------------------------------------------
+[INFO] Total time:  0.484 s
+[INFO] Finished at: 2024-02-28T22:04:45+03:00
+[INFO] ------------------------------------------------------------------------
+
+Process finished with exit code 0
+
+
+VALIDATE:
+
+"C:\Program Files\Java\jdk-21\bin\java.exe" "-Dmaven.multiModuleProjectDirectory=C:\n11Bootcamp\cohorts homeworks\cohorts-second-hw\cohorts-second-hw" -Dmaven.home=C:\Users\yilma\.m2\wrapper\dists\apache-maven-3.9.5-bin\2adeog8mj13csp1uusqnc1f2mo\apache-maven-3.9.5 -Dclassworlds.conf=C:\Users\yilma\.m2\wrapper\dists\apache-maven-3.9.5-bin\2adeog8mj13csp1uusqnc1f2mo\apache-maven-3.9.5\bin\m2.conf "-Dmaven.ext.class.path=C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2022.2.3\plugins\maven\lib\maven-event-listener.jar" "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2022.2.3\lib\idea_rt.jar=59477:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2022.2.3\bin" -Dfile.encoding=UTF-8 -Dsun.stdout.encoding=UTF-8 -Dsun.stderr.encoding=UTF-8 -classpath C:\Users\yilma\.m2\wrapper\dists\apache-maven-3.9.5-bin\2adeog8mj13csp1uusqnc1f2mo\apache-maven-3.9.5\boot\plexus-classworlds-2.7.0.jar;C:\Users\yilma\.m2\wrapper\dists\apache-maven-3.9.5-bin\2adeog8mj13csp1uusqnc1f2mo\apache-maven-3.9.5\boot\plexus-classworlds.license org.codehaus.classworlds.Launcher -Didea.version=2022.2.3 validate
+[INFO] Scanning for projects...
+[INFO]
+[INFO] -----------------< com.merveyilmaz:cohorts-second-hw >------------------
+[INFO] Building cohorts-second-hw 0.0.1-SNAPSHOT
+[INFO]   from pom.xml
+[INFO] --------------------------------[ jar ]---------------------------------
+[INFO] ------------------------------------------------------------------------
+[INFO] BUILD SUCCESS
+[INFO] ------------------------------------------------------------------------
+[INFO] Total time:  0.291 s
+[INFO] Finished at: 2024-02-28T22:05:50+03:00
+[INFO] ------------------------------------------------------------------------
+
+Process finished with exit code 0
+
+
+COMPILE:
+
+"C:\Program Files\Java\jdk-21\bin\java.exe" "-Dmaven.multiModuleProjectDirectory=C:\n11Bootcamp\cohorts homeworks\cohorts-second-hw\cohorts-second-hw" -Dmaven.home=C:\Users\yilma\.m2\wrapper\dists\apache-maven-3.9.5-bin\2adeog8mj13csp1uusqnc1f2mo\apache-maven-3.9.5 -Dclassworlds.conf=C:\Users\yilma\.m2\wrapper\dists\apache-maven-3.9.5-bin\2adeog8mj13csp1uusqnc1f2mo\apache-maven-3.9.5\bin\m2.conf "-Dmaven.ext.class.path=C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2022.2.3\plugins\maven\lib\maven-event-listener.jar" "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2022.2.3\lib\idea_rt.jar=59481:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2022.2.3\bin" -Dfile.encoding=UTF-8 -Dsun.stdout.encoding=UTF-8 -Dsun.stderr.encoding=UTF-8 -classpath C:\Users\yilma\.m2\wrapper\dists\apache-maven-3.9.5-bin\2adeog8mj13csp1uusqnc1f2mo\apache-maven-3.9.5\boot\plexus-classworlds-2.7.0.jar;C:\Users\yilma\.m2\wrapper\dists\apache-maven-3.9.5-bin\2adeog8mj13csp1uusqnc1f2mo\apache-maven-3.9.5\boot\plexus-classworlds.license org.codehaus.classworlds.Launcher -Didea.version=2022.2.3 compile
+[INFO] Scanning for projects...
+[INFO]
+[INFO] -----------------< com.merveyilmaz:cohorts-second-hw >------------------
+[INFO] Building cohorts-second-hw 0.0.1-SNAPSHOT
+[INFO]   from pom.xml
+[INFO] --------------------------------[ jar ]---------------------------------
+[INFO]
+[INFO] --- resources:3.3.1:resources (default-resources) @ cohorts-second-hw ---
+[INFO] Copying 1 resource from src\main\resources to target\classes
+[INFO] Copying 0 resource from src\main\resources to target\classes
+[INFO]
+[INFO] --- compiler:3.11.0:compile (default-compile) @ cohorts-second-hw ---
+[INFO] Changes detected - recompiling the module! :source
+[INFO] Compiling 10 source files with javac [debug release 21] to target\classes
+[INFO] ------------------------------------------------------------------------
+[INFO] BUILD SUCCESS
+[INFO] ------------------------------------------------------------------------
+[INFO] Total time:  1.806 s
+[INFO] Finished at: 2024-02-28T22:06:34+03:00
+[INFO] ------------------------------------------------------------------------
+
+Process finished with exit code 0
+
+
+TEST:
+
+"C:\Program Files\Java\jdk-21\bin\java.exe" "-Dmaven.multiModuleProjectDirectory=C:\n11Bootcamp\cohorts homeworks\cohorts-second-hw\cohorts-second-hw" -Dmaven.home=C:\Users\yilma\.m2\wrapper\dists\apache-maven-3.9.5-bin\2adeog8mj13csp1uusqnc1f2mo\apache-maven-3.9.5 -Dclassworlds.conf=C:\Users\yilma\.m2\wrapper\dists\apache-maven-3.9.5-bin\2adeog8mj13csp1uusqnc1f2mo\apache-maven-3.9.5\bin\m2.conf "-Dmaven.ext.class.path=C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2022.2.3\plugins\maven\lib\maven-event-listener.jar" "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2022.2.3\lib\idea_rt.jar=59491:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2022.2.3\bin" -Dfile.encoding=UTF-8 -Dsun.stdout.encoding=UTF-8 -Dsun.stderr.encoding=UTF-8 -classpath C:\Users\yilma\.m2\wrapper\dists\apache-maven-3.9.5-bin\2adeog8mj13csp1uusqnc1f2mo\apache-maven-3.9.5\boot\plexus-classworlds-2.7.0.jar;C:\Users\yilma\.m2\wrapper\dists\apache-maven-3.9.5-bin\2adeog8mj13csp1uusqnc1f2mo\apache-maven-3.9.5\boot\plexus-classworlds.license org.codehaus.classworlds.Launcher -Didea.version=2022.2.3 test
+[INFO] Scanning for projects...
+[INFO]
+[INFO] -----------------< com.merveyilmaz:cohorts-second-hw >------------------
+[INFO] Building cohorts-second-hw 0.0.1-SNAPSHOT
+[INFO]   from pom.xml
+[INFO] --------------------------------[ jar ]---------------------------------
+[INFO]
+[INFO] --- resources:3.3.1:resources (default-resources) @ cohorts-second-hw ---
+[INFO] Copying 1 resource from src\main\resources to target\classes
+[INFO] Copying 0 resource from src\main\resources to target\classes
+[INFO]
+[INFO] --- compiler:3.11.0:compile (default-compile) @ cohorts-second-hw ---
+[INFO] Nothing to compile - all classes are up to date
+[INFO]
+[INFO] --- resources:3.3.1:testResources (default-testResources) @ cohorts-second-hw ---
+[INFO] skip non existing resourceDirectory C:\n11Bootcamp\cohorts homeworks\cohorts-second-hw\cohorts-second-hw\src\test\resources
+[INFO]
+[INFO] --- compiler:3.11.0:testCompile (default-testCompile) @ cohorts-second-hw ---
+[INFO] Changes detected - recompiling the module! :source
+[INFO] Compiling 1 source file with javac [debug release 21] to target\test-classes
+[INFO]
+[INFO] --- surefire:3.1.2:test (default-test) @ cohorts-second-hw ---
+[INFO] Using auto detected provider org.apache.maven.surefire.junitplatform.JUnitPlatformProvider
+Downloading from central: https://repo.maven.apache.org/maven2/org/junit/platform/junit-platform-launcher/1.10.2/junit-platform-launcher-1.10.2.pom
+Downloaded from central: https://repo.maven.apache.org/maven2/org/junit/platform/junit-platform-launcher/1.10.2/junit-platform-launcher-1.10.2.pom (3.0 kB at 6.7 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/junit/platform/junit-platform-launcher/1.10.2/junit-platform-launcher-1.10.2.jar
+Downloaded from central: https://repo.maven.apache.org/maven2/org/junit/platform/junit-platform-launcher/1.10.2/junit-platform-launcher-1.10.2.jar (184 kB at 428 kB/s)
+[INFO]
+[INFO] -------------------------------------------------------
+[INFO]  T E S T S
+[INFO] -------------------------------------------------------
+[INFO] Running com.merveyilmaz.cohortssecondhw.CohortsSecondHwApplicationTests
+22:07:22.663 [main] INFO org.springframework.test.context.support.AnnotationConfigContextLoaderUtils -- Could not detect default configuration classes for test class [com.merveyilmaz.cohortssecondhw.CohortsSecondHwApplicationTests]: CohortsSecondHwApplicationTests does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+22:07:22.737 [main] INFO org.springframework.boot.test.context.SpringBootTestContextBootstrapper -- Found @SpringBootConfiguration com.merveyilmaz.cohortssecondhw.CohortsSecondHwApplication for test class com.merveyilmaz.cohortssecondhw.CohortsSecondHwApplicationTests
+
+  .   ____          _            __ _ _
+ /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+ \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+  '  |____| .__|_| |_|_| |_\__, | / / / /
+ =========|_|==============|___/=/_/_/_/
+ :: Spring Boot ::                (v3.2.3)
+
+2024-02-28T22:07:23.037+03:00  INFO 26376 --- [           main] c.m.c.CohortsSecondHwApplicationTests    : Starting CohortsSecondHwApplicationTests using Java 21.0.2 with PID 26376 (started by yilma in C:\n11Bootcamp\cohorts homeworks\cohorts-second-hw\cohorts-second-hw)
+2024-02-28T22:07:23.038+03:00  INFO 26376 --- [           main] c.m.c.CohortsSecondHwApplicationTests    : No active profile set, falling back to 1 default profile: "default"
+2024-02-28T22:07:23.438+03:00  INFO 26376 --- [           main] c.m.c.CohortsSecondHwApplicationTests    : Started CohortsSecondHwApplicationTests in 0.586 seconds (process running for 1.283)
+WARNING: A Java agent has been loaded dynamically (C:\Users\yilma\.m2\repository\net\bytebuddy\byte-buddy-agent\1.14.12\byte-buddy-agent-1.14.12.jar)
+WARNING: If a serviceability tool is in use, please run with -XX:+EnableDynamicAgentLoading to hide this warning
+WARNING: If a serviceability tool is not in use, please run with -Djdk.instrument.traceUsage for more information
+WARNING: Dynamic loading of agents will be disallowed by default in a future release
+Java HotSpot(TM) 64-Bit Server VM warning: Sharing is only supported for boot loader classes because bootstrap classpath has been appended
+[INFO] Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 1.678 s -- in com.merveyilmaz.cohortssecondhw.CohortsSecondHwApplicationTests
+[INFO]
+[INFO] Results:
+[INFO]
+[INFO] Tests run: 1, Failures: 0, Errors: 0, Skipped: 0
+[INFO]
+[INFO] ------------------------------------------------------------------------
+[INFO] BUILD SUCCESS
+[INFO] ------------------------------------------------------------------------
+[INFO] Total time:  5.318 s
+[INFO] Finished at: 2024-02-28T22:07:24+03:00
+[INFO] ------------------------------------------------------------------------
+
+Process finished with exit code 0
+
+
+PACKAGE:
+
+"C:\Program Files\Java\jdk-21\bin\java.exe" "-Dmaven.multiModuleProjectDirectory=C:\n11Bootcamp\cohorts homeworks\cohorts-second-hw\cohorts-second-hw" -Dmaven.home=C:\Users\yilma\.m2\wrapper\dists\apache-maven-3.9.5-bin\2adeog8mj13csp1uusqnc1f2mo\apache-maven-3.9.5 -Dclassworlds.conf=C:\Users\yilma\.m2\wrapper\dists\apache-maven-3.9.5-bin\2adeog8mj13csp1uusqnc1f2mo\apache-maven-3.9.5\bin\m2.conf "-Dmaven.ext.class.path=C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2022.2.3\plugins\maven\lib\maven-event-listener.jar" "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2022.2.3\lib\idea_rt.jar=59505:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2022.2.3\bin" -Dfile.encoding=UTF-8 -Dsun.stdout.encoding=UTF-8 -Dsun.stderr.encoding=UTF-8 -classpath C:\Users\yilma\.m2\wrapper\dists\apache-maven-3.9.5-bin\2adeog8mj13csp1uusqnc1f2mo\apache-maven-3.9.5\boot\plexus-classworlds-2.7.0.jar;C:\Users\yilma\.m2\wrapper\dists\apache-maven-3.9.5-bin\2adeog8mj13csp1uusqnc1f2mo\apache-maven-3.9.5\boot\plexus-classworlds.license org.codehaus.classworlds.Launcher -Didea.version=2022.2.3 package
+[INFO] Scanning for projects...
+[INFO]
+[INFO] -----------------< com.merveyilmaz:cohorts-second-hw >------------------
+[INFO] Building cohorts-second-hw 0.0.1-SNAPSHOT
+[INFO]   from pom.xml
+[INFO] --------------------------------[ jar ]---------------------------------
+[INFO]
+[INFO] --- resources:3.3.1:resources (default-resources) @ cohorts-second-hw ---
+[INFO] Copying 1 resource from src\main\resources to target\classes
+[INFO] Copying 0 resource from src\main\resources to target\classes
+[INFO]
+[INFO] --- compiler:3.11.0:compile (default-compile) @ cohorts-second-hw ---
+[INFO] Nothing to compile - all classes are up to date
+[INFO]
+[INFO] --- resources:3.3.1:testResources (default-testResources) @ cohorts-second-hw ---
+[INFO] skip non existing resourceDirectory C:\n11Bootcamp\cohorts homeworks\cohorts-second-hw\cohorts-second-hw\src\test\resources
+[INFO]
+[INFO] --- compiler:3.11.0:testCompile (default-testCompile) @ cohorts-second-hw ---
+[INFO] Nothing to compile - all classes are up to date
+[INFO]
+[INFO] --- surefire:3.1.2:test (default-test) @ cohorts-second-hw ---
+[INFO] Using auto detected provider org.apache.maven.surefire.junitplatform.JUnitPlatformProvider
+[INFO]
+[INFO] -------------------------------------------------------
+[INFO]  T E S T S
+[INFO] -------------------------------------------------------
+[INFO] Running com.merveyilmaz.cohortssecondhw.CohortsSecondHwApplicationTests
+22:07:57.309 [main] INFO org.springframework.test.context.support.AnnotationConfigContextLoaderUtils -- Could not detect default configuration classes for test class [com.merveyilmaz.cohortssecondhw.CohortsSecondHwApplicationTests]: CohortsSecondHwApplicationTests does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+22:07:57.383 [main] INFO org.springframework.boot.test.context.SpringBootTestContextBootstrapper -- Found @SpringBootConfiguration com.merveyilmaz.cohortssecondhw.CohortsSecondHwApplication for test class com.merveyilmaz.cohortssecondhw.CohortsSecondHwApplicationTests
+
+  .   ____          _            __ _ _
+ /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+ \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+  '  |____| .__|_| |_|_| |_\__, | / / / /
+ =========|_|==============|___/=/_/_/_/
+ :: Spring Boot ::                (v3.2.3)
+
+2024-02-28T22:07:57.653+03:00  INFO 28712 --- [           main] c.m.c.CohortsSecondHwApplicationTests    : Starting CohortsSecondHwApplicationTests using Java 21.0.2 with PID 28712 (started by yilma in C:\n11Bootcamp\cohorts homeworks\cohorts-second-hw\cohorts-second-hw)
+2024-02-28T22:07:57.654+03:00  INFO 28712 --- [           main] c.m.c.CohortsSecondHwApplicationTests    : No active profile set, falling back to 1 default profile: "default"
+2024-02-28T22:07:58.038+03:00  INFO 28712 --- [           main] c.m.c.CohortsSecondHwApplicationTests    : Started CohortsSecondHwApplicationTests in 0.555 seconds (process running for 1.231)
+WARNING: A Java agent has been loaded dynamically (C:\Users\yilma\.m2\repository\net\bytebuddy\byte-buddy-agent\1.14.12\byte-buddy-agent-1.14.12.jar)
+WARNING: If a serviceability tool is in use, please run with -XX:+EnableDynamicAgentLoading to hide this warning
+WARNING: If a serviceability tool is not in use, please run with -Djdk.instrument.traceUsage for more information
+WARNING: Dynamic loading of agents will be disallowed by default in a future release
+Java HotSpot(TM) 64-Bit Server VM warning: Sharing is only supported for boot loader classes because bootstrap classpath has been appended
+[INFO] Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 1.519 s -- in com.merveyilmaz.cohortssecondhw.CohortsSecondHwApplicationTests
+[INFO]
+[INFO] Results:
+[INFO]
+[INFO] Tests run: 1, Failures: 0, Errors: 0, Skipped: 0
+[INFO]
+[INFO]
+[INFO] --- jar:3.3.0:jar (default-jar) @ cohorts-second-hw ---
+[INFO] Building jar: C:\n11Bootcamp\cohorts homeworks\cohorts-second-hw\cohorts-second-hw\target\cohorts-second-hw-0.0.1-SNAPSHOT.jar
+[INFO]
+[INFO] --- spring-boot:3.2.3:repackage (repackage) @ cohorts-second-hw ---
+[INFO] Replacing main artifact C:\n11Bootcamp\cohorts homeworks\cohorts-second-hw\cohorts-second-hw\target\cohorts-second-hw-0.0.1-SNAPSHOT.jar with repackaged archive, adding nested dependencies in BOOT-INF/.
+[INFO] The original artifact has been renamed to C:\n11Bootcamp\cohorts homeworks\cohorts-second-hw\cohorts-second-hw\target\cohorts-second-hw-0.0.1-SNAPSHOT.jar.original
+[INFO] ------------------------------------------------------------------------
+[INFO] BUILD SUCCESS
+[INFO] ------------------------------------------------------------------------
+[INFO] Total time:  4.438 s
+[INFO] Finished at: 2024-02-28T22:07:59+03:00
+[INFO] ------------------------------------------------------------------------
+
+Process finished with exit code 0
+
+
+VERIFY:
+
+"C:\Program Files\Java\jdk-21\bin\java.exe" "-Dmaven.multiModuleProjectDirectory=C:\n11Bootcamp\cohorts homeworks\cohorts-second-hw\cohorts-second-hw" -Dmaven.home=C:\Users\yilma\.m2\wrapper\dists\apache-maven-3.9.5-bin\2adeog8mj13csp1uusqnc1f2mo\apache-maven-3.9.5 -Dclassworlds.conf=C:\Users\yilma\.m2\wrapper\dists\apache-maven-3.9.5-bin\2adeog8mj13csp1uusqnc1f2mo\apache-maven-3.9.5\bin\m2.conf "-Dmaven.ext.class.path=C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2022.2.3\plugins\maven\lib\maven-event-listener.jar" "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2022.2.3\lib\idea_rt.jar=59515:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2022.2.3\bin" -Dfile.encoding=UTF-8 -Dsun.stdout.encoding=UTF-8 -Dsun.stderr.encoding=UTF-8 -classpath C:\Users\yilma\.m2\wrapper\dists\apache-maven-3.9.5-bin\2adeog8mj13csp1uusqnc1f2mo\apache-maven-3.9.5\boot\plexus-classworlds-2.7.0.jar;C:\Users\yilma\.m2\wrapper\dists\apache-maven-3.9.5-bin\2adeog8mj13csp1uusqnc1f2mo\apache-maven-3.9.5\boot\plexus-classworlds.license org.codehaus.classworlds.Launcher -Didea.version=2022.2.3 verify
+[INFO] Scanning for projects...
+[INFO]
+[INFO] -----------------< com.merveyilmaz:cohorts-second-hw >------------------
+[INFO] Building cohorts-second-hw 0.0.1-SNAPSHOT
+[INFO]   from pom.xml
+[INFO] --------------------------------[ jar ]---------------------------------
+[INFO]
+[INFO] --- resources:3.3.1:resources (default-resources) @ cohorts-second-hw ---
+[INFO] Copying 1 resource from src\main\resources to target\classes
+[INFO] Copying 0 resource from src\main\resources to target\classes
+[INFO]
+[INFO] --- compiler:3.11.0:compile (default-compile) @ cohorts-second-hw ---
+[INFO] Nothing to compile - all classes are up to date
+[INFO]
+[INFO] --- resources:3.3.1:testResources (default-testResources) @ cohorts-second-hw ---
+[INFO] skip non existing resourceDirectory C:\n11Bootcamp\cohorts homeworks\cohorts-second-hw\cohorts-second-hw\src\test\resources
+[INFO]
+[INFO] --- compiler:3.11.0:testCompile (default-testCompile) @ cohorts-second-hw ---
+[INFO] Nothing to compile - all classes are up to date
+[INFO]
+[INFO] --- surefire:3.1.2:test (default-test) @ cohorts-second-hw ---
+[INFO] Using auto detected provider org.apache.maven.surefire.junitplatform.JUnitPlatformProvider
+[INFO]
+[INFO] -------------------------------------------------------
+[INFO]  T E S T S
+[INFO] -------------------------------------------------------
+[INFO] Running com.merveyilmaz.cohortssecondhw.CohortsSecondHwApplicationTests
+22:08:22.441 [main] INFO org.springframework.test.context.support.AnnotationConfigContextLoaderUtils -- Could not detect default configuration classes for test class [com.merveyilmaz.cohortssecondhw.CohortsSecondHwApplicationTests]: CohortsSecondHwApplicationTests does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+22:08:22.516 [main] INFO org.springframework.boot.test.context.SpringBootTestContextBootstrapper -- Found @SpringBootConfiguration com.merveyilmaz.cohortssecondhw.CohortsSecondHwApplication for test class com.merveyilmaz.cohortssecondhw.CohortsSecondHwApplicationTests
+
+  .   ____          _            __ _ _
+ /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+ \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+  '  |____| .__|_| |_|_| |_\__, | / / / /
+ =========|_|==============|___/=/_/_/_/
+ :: Spring Boot ::                (v3.2.3)
+
+2024-02-28T22:08:22.785+03:00  INFO 26116 --- [           main] c.m.c.CohortsSecondHwApplicationTests    : Starting CohortsSecondHwApplicationTests using Java 21.0.2 with PID 26116 (started by yilma in C:\n11Bootcamp\cohorts homeworks\cohorts-second-hw\cohorts-second-hw)
+2024-02-28T22:08:22.786+03:00  INFO 26116 --- [           main] c.m.c.CohortsSecondHwApplicationTests    : No active profile set, falling back to 1 default profile: "default"
+2024-02-28T22:08:23.164+03:00  INFO 26116 --- [           main] c.m.c.CohortsSecondHwApplicationTests    : Started CohortsSecondHwApplicationTests in 0.542 seconds (process running for 1.244)
+WARNING: A Java agent has been loaded dynamically (C:\Users\yilma\.m2\repository\net\bytebuddy\byte-buddy-agent\1.14.12\byte-buddy-agent-1.14.12.jar)
+WARNING: If a serviceability tool is in use, please run with -XX:+EnableDynamicAgentLoading to hide this warning
+WARNING: If a serviceability tool is not in use, please run with -Djdk.instrument.traceUsage for more information
+WARNING: Dynamic loading of agents will be disallowed by default in a future release
+Java HotSpot(TM) 64-Bit Server VM warning: Sharing is only supported for boot loader classes because bootstrap classpath has been appended
+[INFO] Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 1.530 s -- in com.merveyilmaz.cohortssecondhw.CohortsSecondHwApplicationTests
+[INFO]
+[INFO] Results:
+[INFO]
+[INFO] Tests run: 1, Failures: 0, Errors: 0, Skipped: 0
+[INFO]
+[INFO]
+[INFO] --- jar:3.3.0:jar (default-jar) @ cohorts-second-hw ---
+[INFO]
+[INFO] --- spring-boot:3.2.3:repackage (repackage) @ cohorts-second-hw ---
+[INFO] Replacing main artifact C:\n11Bootcamp\cohorts homeworks\cohorts-second-hw\cohorts-second-hw\target\cohorts-second-hw-0.0.1-SNAPSHOT.jar with repackaged archive, adding nested dependencies in BOOT-INF/.
+[INFO] The original artifact has been renamed to C:\n11Bootcamp\cohorts homeworks\cohorts-second-hw\cohorts-second-hw\target\cohorts-second-hw-0.0.1-SNAPSHOT.jar.original
+[INFO] ------------------------------------------------------------------------
+[INFO] BUILD SUCCESS
+[INFO] ------------------------------------------------------------------------
+[INFO] Total time:  3.983 s
+[INFO] Finished at: 2024-02-28T22:08:24+03:00
+[INFO] ------------------------------------------------------------------------
+
+Process finished with exit code 0
+
+
+INSTALL:
+
+"C:\Program Files\Java\jdk-21\bin\java.exe" "-Dmaven.multiModuleProjectDirectory=C:\n11Bootcamp\cohorts homeworks\cohorts-second-hw\cohorts-second-hw" -Dmaven.home=C:\Users\yilma\.m2\wrapper\dists\apache-maven-3.9.5-bin\2adeog8mj13csp1uusqnc1f2mo\apache-maven-3.9.5 -Dclassworlds.conf=C:\Users\yilma\.m2\wrapper\dists\apache-maven-3.9.5-bin\2adeog8mj13csp1uusqnc1f2mo\apache-maven-3.9.5\bin\m2.conf "-Dmaven.ext.class.path=C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2022.2.3\plugins\maven\lib\maven-event-listener.jar" "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2022.2.3\lib\idea_rt.jar=59518:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2022.2.3\bin" -Dfile.encoding=UTF-8 -Dsun.stdout.encoding=UTF-8 -Dsun.stderr.encoding=UTF-8 -classpath C:\Users\yilma\.m2\wrapper\dists\apache-maven-3.9.5-bin\2adeog8mj13csp1uusqnc1f2mo\apache-maven-3.9.5\boot\plexus-classworlds-2.7.0.jar;C:\Users\yilma\.m2\wrapper\dists\apache-maven-3.9.5-bin\2adeog8mj13csp1uusqnc1f2mo\apache-maven-3.9.5\boot\plexus-classworlds.license org.codehaus.classworlds.Launcher -Didea.version=2022.2.3 install
+[INFO] Scanning for projects...
+[INFO]
+[INFO] -----------------< com.merveyilmaz:cohorts-second-hw >------------------
+[INFO] Building cohorts-second-hw 0.0.1-SNAPSHOT
+[INFO]   from pom.xml
+[INFO] --------------------------------[ jar ]---------------------------------
+[INFO]
+[INFO] --- resources:3.3.1:resources (default-resources) @ cohorts-second-hw ---
+[INFO] Copying 1 resource from src\main\resources to target\classes
+[INFO] Copying 0 resource from src\main\resources to target\classes
+[INFO]
+[INFO] --- compiler:3.11.0:compile (default-compile) @ cohorts-second-hw ---
+[INFO] Nothing to compile - all classes are up to date
+[INFO]
+[INFO] --- resources:3.3.1:testResources (default-testResources) @ cohorts-second-hw ---
+[INFO] skip non existing resourceDirectory C:\n11Bootcamp\cohorts homeworks\cohorts-second-hw\cohorts-second-hw\src\test\resources
+[INFO]
+[INFO] --- compiler:3.11.0:testCompile (default-testCompile) @ cohorts-second-hw ---
+[INFO] Nothing to compile - all classes are up to date
+[INFO]
+[INFO] --- surefire:3.1.2:test (default-test) @ cohorts-second-hw ---
+[INFO] Using auto detected provider org.apache.maven.surefire.junitplatform.JUnitPlatformProvider
+[INFO]
+[INFO] -------------------------------------------------------
+[INFO]  T E S T S
+[INFO] -------------------------------------------------------
+[INFO] Running com.merveyilmaz.cohortssecondhw.CohortsSecondHwApplicationTests
+22:08:38.083 [main] INFO org.springframework.test.context.support.AnnotationConfigContextLoaderUtils -- Could not detect default configuration classes for test class [com.merveyilmaz.cohortssecondhw.CohortsSecondHwApplicationTests]: CohortsSecondHwApplicationTests does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+22:08:38.163 [main] INFO org.springframework.boot.test.context.SpringBootTestContextBootstrapper -- Found @SpringBootConfiguration com.merveyilmaz.cohortssecondhw.CohortsSecondHwApplication for test class com.merveyilmaz.cohortssecondhw.CohortsSecondHwApplicationTests
+
+  .   ____          _            __ _ _
+ /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+ \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+  '  |____| .__|_| |_|_| |_\__, | / / / /
+ =========|_|==============|___/=/_/_/_/
+ :: Spring Boot ::                (v3.2.3)
+
+2024-02-28T22:08:38.433+03:00  INFO 33348 --- [           main] c.m.c.CohortsSecondHwApplicationTests    : Starting CohortsSecondHwApplicationTests using Java 21.0.2 with PID 33348 (started by yilma in C:\n11Bootcamp\cohorts homeworks\cohorts-second-hw\cohorts-second-hw)
+2024-02-28T22:08:38.433+03:00  INFO 33348 --- [           main] c.m.c.CohortsSecondHwApplicationTests    : No active profile set, falling back to 1 default profile: "default"
+2024-02-28T22:08:38.836+03:00  INFO 33348 --- [           main] c.m.c.CohortsSecondHwApplicationTests    : Started CohortsSecondHwApplicationTests in 0.578 seconds (process running for 1.244)
+WARNING: A Java agent has been loaded dynamically (C:\Users\yilma\.m2\repository\net\bytebuddy\byte-buddy-agent\1.14.12\byte-buddy-agent-1.14.12.jar)
+WARNING: If a serviceability tool is in use, please run with -XX:+EnableDynamicAgentLoading to hide this warning
+WARNING: If a serviceability tool is not in use, please run with -Djdk.instrument.traceUsage for more information
+WARNING: Dynamic loading of agents will be disallowed by default in a future release
+Java HotSpot(TM) 64-Bit Server VM warning: Sharing is only supported for boot loader classes because bootstrap classpath has been appended
+[INFO] Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 1.595 s -- in com.merveyilmaz.cohortssecondhw.CohortsSecondHwApplicationTests
+[INFO]
+[INFO] Results:
+[INFO]
+[INFO] Tests run: 1, Failures: 0, Errors: 0, Skipped: 0
+[INFO]
+[INFO]
+[INFO] --- jar:3.3.0:jar (default-jar) @ cohorts-second-hw ---
+[INFO]
+[INFO] --- spring-boot:3.2.3:repackage (repackage) @ cohorts-second-hw ---
+[INFO] Replacing main artifact C:\n11Bootcamp\cohorts homeworks\cohorts-second-hw\cohorts-second-hw\target\cohorts-second-hw-0.0.1-SNAPSHOT.jar with repackaged archive, adding nested dependencies in BOOT-INF/.
+[INFO] The original artifact has been renamed to C:\n11Bootcamp\cohorts homeworks\cohorts-second-hw\cohorts-second-hw\target\cohorts-second-hw-0.0.1-SNAPSHOT.jar.original
+[INFO]
+[INFO] --- install:3.1.1:install (default-install) @ cohorts-second-hw ---
+[INFO] Installing C:\n11Bootcamp\cohorts homeworks\cohorts-second-hw\cohorts-second-hw\pom.xml to C:\Users\yilma\.m2\repository\com\merveyilmaz\cohorts-second-hw\0.0.1-SNAPSHOT\cohorts-second-hw-0.0.1-SNAPSHOT.pom
+[INFO] Installing C:\n11Bootcamp\cohorts homeworks\cohorts-second-hw\cohorts-second-hw\target\cohorts-second-hw-0.0.1-SNAPSHOT.jar to C:\Users\yilma\.m2\repository\com\merveyilmaz\cohorts-second-hw\0.0.1-SNAPSHOT\cohorts-second-hw-0.0.1-SNAPSHOT.jar
+[INFO] ------------------------------------------------------------------------
+[INFO] BUILD SUCCESS
+[INFO] ------------------------------------------------------------------------
+[INFO] Total time:  3.976 s
+[INFO] Finished at: 2024-02-28T22:08:40+03:00
+[INFO] ------------------------------------------------------------------------
+
+Process finished with exit code 0
+
+
+DEPLOY:
+
+"C:\Program Files\Java\jdk-21\bin\java.exe" "-Dmaven.multiModuleProjectDirectory=C:\n11Bootcamp\cohorts homeworks\cohorts-second-hw\cohorts-second-hw" -Dmaven.home=C:\Users\yilma\.m2\wrapper\dists\apache-maven-3.9.5-bin\2adeog8mj13csp1uusqnc1f2mo\apache-maven-3.9.5 -Dclassworlds.conf=C:\Users\yilma\.m2\wrapper\dists\apache-maven-3.9.5-bin\2adeog8mj13csp1uusqnc1f2mo\apache-maven-3.9.5\bin\m2.conf "-Dmaven.ext.class.path=C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2022.2.3\plugins\maven\lib\maven-event-listener.jar" "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2022.2.3\lib\idea_rt.jar=59530:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2022.2.3\bin" -Dfile.encoding=UTF-8 -Dsun.stdout.encoding=UTF-8 -Dsun.stderr.encoding=UTF-8 -classpath C:\Users\yilma\.m2\wrapper\dists\apache-maven-3.9.5-bin\2adeog8mj13csp1uusqnc1f2mo\apache-maven-3.9.5\boot\plexus-classworlds-2.7.0.jar;C:\Users\yilma\.m2\wrapper\dists\apache-maven-3.9.5-bin\2adeog8mj13csp1uusqnc1f2mo\apache-maven-3.9.5\boot\plexus-classworlds.license org.codehaus.classworlds.Launcher -Didea.version=2022.2.3 deploy
+[INFO] Scanning for projects...
+[INFO]
+[INFO] -----------------< com.merveyilmaz:cohorts-second-hw >------------------
+[INFO] Building cohorts-second-hw 0.0.1-SNAPSHOT
+[INFO]   from pom.xml
+[INFO] --------------------------------[ jar ]---------------------------------
+DE[INFO]
+[INFO] --- resources:3.3.1:resources (default-resources) @ cohorts-second-hw ---
+[INFO] Copying 1 resource from src\main\resources to target\classes
+[INFO] Copying 0 resource from src\main\resources to target\classes
+[INFO]
+[INFO] --- compiler:3.11.0:compile (default-compile) @ cohorts-second-hw ---
+P[INFO] Nothing to compile - all classes are up to date
+[INFO]
+[INFO] --- resources:3.3.1:testResources (default-testResources) @ cohorts-second-hw ---
+[INFO] skip non existing resourceDirectory C:\n11Bootcamp\cohorts homeworks\cohorts-second-hw\cohorts-second-hw\src\test\resources
+[INFO]
+[INFO] --- compiler:3.11.0:testCompile (default-testCompile) @ cohorts-second-hw ---
+[INFO] Nothing to compile - all classes are up to date
+[INFO]
+[INFO] --- surefire:3.1.2:test (default-test) @ cohorts-second-hw ---
+L[INFO] Using auto detected provider org.apache.maven.surefire.junitplatform.JUnitPlatformProvider
+[INFO]
+[INFO] -------------------------------------------------------
+[INFO]  T E S T S
+[INFO] -------------------------------------------------------
+OY[INFO] Running com.merveyilmaz.cohortssecondhw.CohortsSecondHwApplicationTests
+22:09:25.796 [main] INFO org.springframework.test.context.support.AnnotationConfigContextLoaderUtils -- Could not detect default configuration classes for test class [com.merveyilmaz.cohortssecondhw.CohortsSecondHwApplicationTests]: CohortsSecondHwApplicationTests does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+22:09:25.871 [main] INFO org.springframework.boot.test.context.SpringBootTestContextBootstrapper -- Found @SpringBootConfiguration com.merveyilmaz.cohortssecondhw.CohortsSecondHwApplication for test class com.merveyilmaz.cohortssecondhw.CohortsSecondHwApplicationTests
+
+  .   ____          _            __ _ _
+ /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+ \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+  '  |____| .__|_| |_|_| |_\__, | / / / /
+ =========|_|==============|___/=/_/_/_/
+ :: Spring Boot ::                (v3.2.3)
+
+2024-02-28T22:09:26.142+03:00  INFO 10440 --- [           main] c.m.c.CohortsSecondHwApplicationTests    : Starting CohortsSecondHwApplicationTests using Java 21.0.2 with PID 10440 (started by yilma in C:\n11Bootcamp\cohorts homeworks\cohorts-second-hw\cohorts-second-hw)
+2024-02-28T22:09:26.143+03:00  INFO 10440 --- [           main] c.m.c.CohortsSecondHwApplicationTests    : No active profile set, falling back to 1 default profile: "default"
+2024-02-28T22:09:26.567+03:00  INFO 10440 --- [           main] c.m.c.CohortsSecondHwApplicationTests    : Started CohortsSecondHwApplicationTests in 0.593 seconds (process running for 1.265)
+WARNING: A Java agent has been loaded dynamically (C:\Users\yilma\.m2\repository\net\bytebuddy\byte-buddy-agent\1.14.12\byte-buddy-agent-1.14.12.jar)
+WARNING: If a serviceability tool is in use, please run with -XX:+EnableDynamicAgentLoading to hide this warning
+WARNING: If a serviceability tool is not in use, please run with -Djdk.instrument.traceUsage for more information
+WARNING: Dynamic loading of agents will be disallowed by default in a future release
+Java HotSpot(TM) 64-Bit Server VM warning: Sharing is only supported for boot loader classes because bootstrap classpath has been appended
+[INFO] Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 1.599 s -- in com.merveyilmaz.cohortssecondhw.CohortsSecondHwApplicationTests
+[INFO]
+[INFO] Results:
+[INFO]
+[INFO] Tests run: 1, Failures: 0, Errors: 0, Skipped: 0
+[INFO]
+[INFO]
+[INFO] --- jar:3.3.0:jar (default-jar) @ cohorts-second-hw ---
+[INFO]
+[INFO] --- spring-boot:3.2.3:repackage (repackage) @ cohorts-second-hw ---
+[INFO] Replacing main artifact C:\n11Bootcamp\cohorts homeworks\cohorts-second-hw\cohorts-second-hw\target\cohorts-second-hw-0.0.1-SNAPSHOT.jar with repackaged archive, adding nested dependencies in BOOT-INF/.
+[INFO] The original artifact has been renamed to C:\n11Bootcamp\cohorts homeworks\cohorts-second-hw\cohorts-second-hw\target\cohorts-second-hw-0.0.1-SNAPSHOT.jar.original
+[INFO]
+[INFO] --- install:3.1.1:install (default-install) @ cohorts-second-hw ---
+[INFO] Installing C:\n11Bootcamp\cohorts homeworks\cohorts-second-hw\cohorts-second-hw\pom.xml to C:\Users\yilma\.m2\repository\com\merveyilmaz\cohorts-second-hw\0.0.1-SNAPSHOT\cohorts-second-hw-0.0.1-SNAPSHOT.pom
+[INFO] Installing C:\n11Bootcamp\cohorts homeworks\cohorts-second-hw\cohorts-second-hw\target\cohorts-second-hw-0.0.1-SNAPSHOT.jar to C:\Users\yilma\.m2\repository\com\merveyilmaz\cohorts-second-hw\0.0.1-SNAPSHOT\cohorts-second-hw-0.0.1-SNAPSHOT.jar
+[INFO]
+[INFO] --- deploy:3.1.1:deploy (default-deploy) @ cohorts-second-hw ---
+[INFO] ------------------------------------------------------------------------
+[INFO] BUILD FAILURE
+[INFO] ------------------------------------------------------------------------
+[INFO] Total time:  4.295 s
+[INFO] Finished at: 2024-02-28T22:09:28+03:00
+[INFO] ------------------------------------------------------------------------
+[ERROR] Failed to execute goal org.apache.maven.plugins:maven-deploy-plugin:3.1.1:deploy (default-deploy) on project cohorts-second-hw: Deployment failed: repository element was not specified in the POM inside distributionManagement element or in -DaltDeploymentRepository=id::url parameter -> [Help 1]
+[ERROR]
+[ERROR] To see the full stack trace of the errors, re-run Maven with the -e switch.
+[ERROR] Re-run Maven using the -X switch to enable full debug logging.
+[ERROR]
+[ERROR] For more information about the errors and possible solutions, please read the following articles:
+[ERROR] [Help 1] http://cwiki.apache.org/confluence/display/MAVEN/MojoExecutionException
+
+Process finished with exit code 1
+
